@@ -58,3 +58,11 @@
 <img src="https://raw.githubusercontent.com/Jax-Tsai-zero/Jax-Tsai-zero/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31yic5nsrwehh3omaslvsby27fwm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yic5nsrwehh3omaslvsby27fwm&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
